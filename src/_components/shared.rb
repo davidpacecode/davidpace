@@ -16,7 +16,7 @@ module Shared
         nav_links: [
           Willamette.link(title: t("nav.blog"), url: "/blog"),
           Willamette.link(title: t("nav.about"), url: "/about"),
-          Willamette.link(icon: "mastodon", icon_family: "brands", icon_label: "Mastodon", title: nil, url: "https://mastodon.social"),
+          Willamette.link(icon: "linkedin", icon_family: "brands", icon_label: "LinkedIn", title: nil, url: "https://www.linkedin.com/in/davidpace/"),
         ]
       )
     end
@@ -42,7 +42,7 @@ module Shared
           Willamette.link(icon: "rss", title: "Newsfeed", url: "/feed.xml"),
           Willamette.link(icon: "bluesky", icon_family: "brands", title: "@myblue", url: "https://bsky.social"),
         ],
-        subscribe: true,
+        subscribe: false,
         see_also_links: [
           Willamette.link(icon: "file-lines", title: "Another Project", url: "#/another"),
           Willamette.link(icon: "keyboard", title: "Personal Journal", url: "#/journal"),
