@@ -9,7 +9,7 @@ module Shared
 
       @strategy = Willamette.navbar(
         self,
-        logo: "/images/logo.png",
+        logo: "/assets/images/logo.png",
         logo_alt: "Website Logo",
         search: true,
         site_title: metadata.title,

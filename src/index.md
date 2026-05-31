@@ -6,7 +6,7 @@ layout: default
 
 # Again with another website??
 
-<p><wa-button variant="brand" href="/willamette/style-guide">View the Willamette Style Guide</wa-button></p>
+[2026 GMS Honors Band Spring Concert](https://youtu.be/xwtko957eUI)
 
 ----
 
